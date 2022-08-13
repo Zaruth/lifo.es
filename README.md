@@ -14,7 +14,7 @@ Copyright (c) 2006-2013, Luis Quesada Torres - https://github.com/lquesada | www
 &nbsp;&nbsp;
 
 ## Aspectos generales
----
+
 El código fuente facilitado **NO ESTÁ PREPARADO NI LISTO** para su uso directo y requiere de varias modificaciones y preparaciones. Este repositorio se puede utilizar como base para la creación de un nuevo "Lifo" o partidas o lo que se desee.
 
 Dentro de las carpetas facilitadas podemos encontrar:
@@ -34,7 +34,7 @@ El lenguaje de base de datos utilizado es MySQL.
 &nbsp;&nbsp;
 
 ## Crear una partida
----
+
 Para crear una partida como mínimo se deben seguir estos pásos:
 1. Copiar el contenido de la carpeta *partida.lifo* sobre la carpeta destino de la partida.
 2. Crear una base de datos. Será donde almacenemos las tablas y datos del juego.
@@ -68,7 +68,6 @@ Relaizando los pasos anteriores y con una serie de modificaciones menores de rut
 &nbsp;&nbsp;
 
 ## Otros
----
 
 Como se menciona anteriormente, también aporto el código base de una partida de el *Rey de la Colina*.
 ![Logo del Rey de la Colina](github/logo_2.png)
@@ -80,7 +79,6 @@ Las partidas del tipo *Rey de la Colina* son partidas especiales finitas que bus
 &nbsp;&nbsp;
 
 ## Agradecimientos
----
 
 Quisiera agradecer a los jugadores que han participado en el juego a lo largo de estos años y a todo el mundo que a colaborado en el juego.
 
