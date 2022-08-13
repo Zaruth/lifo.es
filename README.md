@@ -53,6 +53,7 @@ El funcionamiento del cartero se basa en: Generar un correo desde una partida en
 El cartero no va a funcionar solo. Para que todo este mecanismo sea un trabajo asíncrono se requiere de una tarea de cron que ejecute el siguiente fichero:
 
 ![Tareas programadas](github/tareasprogramadas.png)
+
 Se debe ejecutar cada segundo el archivo *postMan.php*, que se encargará de dicho trabajo.
 
 En las tareas programadas se pueden visualizar otras tareas, tales como:
