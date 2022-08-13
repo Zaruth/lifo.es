@@ -68,14 +68,16 @@ Relaizando los pasos anteriores y con una serie de modificaciones menores de rut
 
 &nbsp;&nbsp;
 
-## Otros
+## Otros / Consideraciones
 
 Como se menciona anteriormente, también aporto el código base de una partida de el *Rey de la Colina*.
 ![Logo del Rey de la Colina](github/logo_2.png)
 
-Concrétamente el código respectivo de la 2º partida del *Rey de la Colina*. También añado un sql llamado *reydelacolina_database.sql* que contiene la base de datos de este tipo de partida como fue la última.
+Concrétamente el código respectivo de la 2º partida del *Rey de la Colina*. También añado un sql llamado *reydelacolina_database.sql* que contiene la base de datos de este tipo de partida como fue la última. Las partidas del tipo *Rey de la Colina* son partidas especiales finitas que buscan que los jugadores cumplan ciertos objetivos en ellas en un tiempo limitado. Estas partidas no cuentan con premium, clasificación u otros aspetos básicos del juego.
 
-Las partidas del tipo *Rey de la Colina* son partidas especiales finitas que buscan que los jugadores cumplan ciertos objetivos en ellas en un tiempo limitado. Estas partidas no cuentan con premium, clasificación u otros aspetos básicos del juego.
+Algo a tener en consideración respecto a las partidas normales será el chat de los clanes. El chat es simple, se basa en un script .js y unos archivos .json que almacenan cada uno de los chats de clan. Algo **MUY IMPORTANTE** que se debe saber es que el sistema de chat no funcionará si no existe una carpeta llamada **chats** dentro de la carpeta **chat** que contiene los scripts y toda la información del sistema de chats.
+
+De la misma manera que lo anteriormente citado, deberá existir una carpeta vacía llamada **uploads** dentro de la carpeta de la partida y otra llamada igual dentro de la carpeta **commons**. Esto es **NECESARIO** para que funcione bien el cartero.
 
 &nbsp;&nbsp;
 
