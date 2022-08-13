@@ -1,0 +1,159 @@
+Nuevas modificaciones – Exploración.
+04/12/2019
+<P STYLE="margin-bottom: 0in"><FONT SIZE=5><U><B>Nuevas
+modificaciones – Exploración.</B></U></FONT></P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0.11in"><FONT SIZE=4><I><B>¡Buenas a todos
+jugadores!</B></I></FONT></P>
+<P STYLE="margin-bottom: 0in; line-height: 115%"><FONT SIZE=3>De cara
+a la nueva partida ha habido cambios bastantes notables, que son
+necesarios que conozcáis. Vamos a ello:<BR></FONT><BR>
+</P>
+<P STYLE="margin-bottom: 0.11in; line-height: 115%"><FONT COLOR="#1f4e79"><FONT SIZE=4><U><B>Exploración.</B></U></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.11in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3><B>Mapa:
+Cueva de la plata</B></FONT></FONT><FONT COLOR="#000000"><FONT SIZE=3>.</FONT></FONT></P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	eliminados: </FONT></FONT><FONT COLOR="#c00000"><FONT SIZE=3><I>Minerales
+	variados.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	añadidos</FONT></FONT><FONT COLOR="#538135"><FONT SIZE=3>: </FONT></FONT><FONT COLOR="#538135"><FONT SIZE=3><I>Daga
+	de oro, maza de oro, hechizo: Misil mágico y hechizo: Falsa
+	neblina.</I></FONT></FONT></P>
+</UL>
+<P STYLE="margin-bottom: 0in; line-height: 100%"><BR>
+</P>
+<P STYLE="margin-bottom: 0.11in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3><B>Mapa:
+Gruta helada.</B></FONT></FONT></P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	eliminados: </FONT></FONT><FONT COLOR="#c00000"><FONT SIZE=3><I>Sal,
+	jarra de agua, jarra de agua de mar, hueso, calavera, polvo de
+	hielo.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	añadidos: </FONT></FONT><FONT COLOR="#538135"><FONT SIZE=3><I>Daga
+	de oro, Maza de oro, Hechizo: Misil mágico, Hechizo: Falsa neblina,
+	pistola lanzaclavos.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	cambiados: </FONT></FONT><FONT COLOR="#002060"><FONT SIZE=3><I>Se
+	elimina la guadaña de hielo y en su lugar entra la daga de cristal
+	luminoso, con la misma probabilidad de encontrarla.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Probabilidad:
+	</FONT></FONT><FONT COLOR="#000000"><FONT SIZE=3><I>Ligera subida en
+	el porcentaje para encontrar la espada de hielo, escudo de hielo,
+	yelmo de hielo, pescado y mapa: Laberinto de hielo.</I></FONT></FONT></P>
+</UL>
+<P STYLE="margin-bottom: 0in; line-height: 100%"><BR>
+</P>
+<P STYLE="margin-bottom: 0.11in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3><B>Mapa:
+Mina de oro.</B></FONT></FONT></P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	eliminados: </FONT></FONT><FONT COLOR="#c00000"><FONT SIZE=3><I>Mineral
+	variado, hueso, calavera, espejo.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	añadidos: </FONT></FONT><FONT COLOR="#538135"><FONT SIZE=3><I>Coraza
+	desmontable de oro, perneras desmontables de oro, yelmo de oro,
+	botas de oro, martillo de guerra, hechizo: Rayo de fuego y hechizo:
+	Aura de fuego.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Probabilidad:
+	</FONT></FONT><FONT COLOR="#404040"><FONT SIZE=3><I>Ligera subida en
+	el porcentaje para encontrar el champiñón, champiñón verde,
+	mapa: Descenso profundo</I></FONT></FONT><FONT COLOR="#000000"><FONT SIZE=3><I>.</I></FONT></FONT></P>
+</UL>
+<P STYLE="margin-bottom: 0in; line-height: 100%"><BR>
+</P>
+<P STYLE="margin-bottom: 0.11in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3><B>Mapa:
+Laberinto de hielo.</B></FONT></FONT></P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	eliminados: </FONT></FONT><FONT COLOR="#c00000"><FONT SIZE=3><I>Sal,
+	jarra de agua, jarra de agua de mar, hueso, calavera, polvo de
+	hielo, escudo de hielo, botas forradas.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	añadidos: </FONT></FONT><FONT COLOR="#538135"><FONT SIZE=3><I>Pescado
+	grande, hechizo: Rayo de hielo, hechizo: Aura de hielo, botas de
+	infantería.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Probabilidad:
+	</FONT></FONT><FONT COLOR="#404040"><FONT SIZE=3><I>Ligera subida en
+	el porcentaje para encontrar el yelmo de hielo, coraza de hielo,
+	perneras de hielo, guadaña de hielo, espada de hielo, collar
+	protector, daga de cristal luminoso.</I></FONT></FONT></P>
+</UL>
+<P STYLE="margin-bottom: 0in; line-height: 100%"><BR>
+</P>
+<P STYLE="margin-bottom: 0.11in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3><B>Mapa:
+Descenso profundo.</B></FONT></FONT></P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	eliminados: </FONT></FONT><FONT COLOR="#c00000"><FONT SIZE=3><I>Mineral
+	variado, mineral de hierro, hueso, calavera.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	añadidos: </FONT></FONT><FONT COLOR="#538135"><FONT SIZE=3><I>Coraza
+	desmontable de oro, perneras desmontables de oro, perneras
+	encantadas, coraza encantada, botas de oro, mandoble, hechizo: Rayo
+	de fuego y hechizo: Aura de fuego.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Probabilidad:
+	</FONT></FONT><FONT COLOR="#404040"><FONT SIZE=3><I>Ligera subida en
+	el porcentaje para encontrar el champiñón, champiñón verde,
+	mercurio.</I></FONT></FONT></P>
+</UL>
+<P STYLE="margin-bottom: 0in; line-height: 100%"><BR>
+</P>
+<P STYLE="margin-bottom: 0.11in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3><B>Mapa:
+Montaña helada.</B></FONT></FONT></P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	eliminados: </FONT></FONT><FONT COLOR="#c00000"><FONT SIZE=3><I>Sal,
+	pescado, jarra de agua, jarra de agua de mar, hueso, calavera, polvo
+	de hielo, escudo de hielo, botas forradas, tulipan, mariposa de
+	hielo.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	añadidos: </FONT></FONT><FONT COLOR="#538135"><FONT SIZE=3><I>Pescado
+	grande, hechizo: Rayo de hielo, hechizo: Aura de hielo, botas de
+	infantería.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Objetos
+	cambiados: </FONT></FONT><FONT COLOR="#002060"><FONT SIZE=3><I>Se
+	elimina el escudo de batalla y la coraza completa, en su lugar
+	entran el escudo de vampiro y el mandoble, con la misma probabilidad
+	de encontrarla.</I></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#000000"><FONT SIZE=3>Probabilidad:
+	</FONT></FONT><FONT COLOR="#404040"><FONT SIZE=3><I>Ligera subida en
+	el porcentaje para encontrar el yelmo de hielo, coraza de hielo,
+	perneras de hielo, anillo de cobre, espada de hielo, collar
+	protector, daga de cristal luminoso, daga celestial.</I></FONT></FONT></P>
+</UL>
+<P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#1f4e79"><FONT SIZE=4><B><BR></B></FONT></FONT><FONT COLOR="#ff0000"><FONT SIZE=3><I>Puede
+que de primeras parezca que la exploración da menos objetos que
+antes, tened en cuenta que la mayoría de los objetos que salían con
+mayor frecuencia explorando algunos mapas también se podían comprar
+en el mercader, y por eso se han eliminado de ellos. (Minerales,
+agua, polvos…)</I></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in; line-height: 100%"><BR>
+</P>
+<P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#ff0000"><FONT SIZE=3><I>Todos
+los cambios en los mapas siguen una misma línea: se busca equilibrar
+ambos caminos en cuanto a número de objetos y experiencia que pueden
+aportar. Obviamente unos mapas acabarán dando mas experiencia que
+otros, pero eso os tendréis que encargar vosotros de descifrarlo.</I></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#ff0000"><FONT SIZE=3><I>También
+se busca que la exploración no rompa el juego dando mucha
+experiencia, ni vaya arrasando con la mayoría de items, es decir,
+que no es normal que encuentres explorando una coraza completa a
+nivel 36, ya que devalúa completamente todas las corazas que están
+por debajo y aún nadie ha encontrado trabajando. Y así con muchos
+más ítems.</I></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in; line-height: 100%"><BR>
+</P>
+<P STYLE="margin-bottom: 0in; line-height: 100%"><FONT COLOR="#ff0000"><FONT SIZE=3><I><B>IMPORTANTE:
+El resto de los mapas también van a ser modificados, pero seguimos
+estudiando su reestructuración. Cuando estén completos se
+publicará.</B></I></FONT></FONT></P>
+<P STYLE="margin-bottom: 0in; line-height: 115%"><FONT SIZE=3><B>Estaremos
+atentos a vuestras opiniones/sugerencias/quejas con el fin de
+conseguir equilibrar correctamente los mapas, creemos que hemos dado
+un buen paso en ese sentido, pero siempre todo es mejorable.</B></FONT></P>
+<P STYLE="margin-bottom: 0in; line-height: 115%"><BR>
+</P>
+<P STYLE="margin-bottom: 0in; line-height: 115%"><FONT SIZE=3><B>¡Saludos!</B></FONT></P>

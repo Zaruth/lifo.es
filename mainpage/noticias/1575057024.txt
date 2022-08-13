@@ -1,0 +1,183 @@
+Nueva partida, nueva etapa, nuevo evento.
+29/11/2019
+<P STYLE="margin-bottom: 0in">
+	<FONT SIZE=5><U><B>Nueva partida, nueva etapa, nuevo evento.</B></U></FONT>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in">
+	<FONT SIZE=4><I><B>¡Buenas
+				a todos jugadores!</B></I></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+	<FONT SIZE=3>En
+		primer lugar, bienvenidos a todos a la nueva sección de noticias.</FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+	<FONT SIZE=3>Como
+		su nombre bien indica, aquí se anunciarán todas las noticias
+		relacionadas en gran parte con las novedades implementadas en el
+		juego y algunos anuncios importantes.</FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in">
+	<FONT SIZE=4><I><B>¿Nueva
+				partida?</B></I></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in; line-height: 115%">
+	<FONT SIZE=3>Así
+		es, como podéis leer en el título y si habéis estado pendientes
+		del juego últimamente lo sabréis, se acerca una nueva partida: P5.</FONT>
+</P>
+<UL>
+	<LI>
+		<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 150%">
+			<FONT COLOR="#c00000">
+				<FONT SIZE=3><B>Fecha
+						de salida: </B></FONT>
+			</FONT>
+			<FONT COLOR="#c00000">
+				<FONT SIZE=3>4 de
+					Diciembre de 2019.</FONT>
+			</FONT>
+		</P>
+</UL>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 150%">
+	<FONT SIZE=4><I><B>¿Nueva
+				etapa?</B></I></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+	<FONT SIZE=3>Se
+		trabajará de forma mas constante por parte de la administración
+		para intentar implementar nuevas mejoras en el juego. </FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+	<FONT SIZE=3>Para
+		conseguir este objetivo se ha realizado una nueva incorporación al
+		equipo de Lifo, el jugador </FONT>
+	<FONT SIZE=3><I>Recycled, que
+		</I></FONT>
+	<FONT SIZE=3>ocupará el nuevo cargo de </FONT>
+	<FONT SIZE=3><I>Mano
+			derecha.</I></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%"><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in; line-height: 115%">
+	<FONT COLOR="#1f4e79">
+		<FONT SIZE=4><B>Mejoras
+				que se van a implementar:</B></FONT>
+	</FONT>
+</P>
+<UL>
+	<LI>
+		<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+			<FONT SIZE=3>El
+				jugador a partir de ahora tendrá vida, este nuevo factor dará mas
+				juego en un futuro.</FONT>
+		</P>
+	<LI>
+		<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+			<FONT SIZE=3>Los
+				puntos de resistencia en el combate desaparecen y son reemplazados
+				por la vida del jugador.</FONT>
+		</P>
+	<LI>
+		<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+			<FONT SIZE=3>Hebras
+				fijas: La administración, Moderadores y Mano derecha podrán fijar
+				hebras en el foro. Es decir, las hebras fijadas siempre permanecerán
+				las primeras en el foro para evitar que se pierdan entre el resto.
+				Serán útiles para dar algún mensaje importante y en hebras
+				relacionadas con eventos.</FONT>
+		</P>
+	<LI>
+		<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+			<FONT SIZE=3>Nuevos
+				“visuales” en las características de arma y protección. Este
+				punto lo entenderéis cuando echéis un vistazo al inventario.</FONT>
+		</P>
+</UL>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%"><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in; line-height: 115%">
+	<FONT COLOR="#1f4e79">
+		<FONT SIZE=4><B>Mejoras
+				en proceso de estudio:</B></FONT>
+	</FONT>
+</P>
+<UL>
+	<LI>
+		<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+			<FONT SIZE=3>Estudio
+				de porcentajes de los mapas, así como los objetos que dropean cada
+				uno.</FONT>
+		</P>
+	<LI>
+		<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+			<FONT SIZE=3>Estudio
+				de objetos del juego: se pretende equilibrar los inventarios a
+				niveles intermedios y altos, introduciendo si es necesario nuevo
+				equipamiento.</FONT>
+		</P>
+</UL>
+<P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; margin-bottom: 0in; line-height: 115%">
+	<BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+	<FONT SIZE=3>Pido
+		comprensión y paciencia para esto último, es necesario estudiarlo
+		bien y realizar pruebas para introducirlo de la forma mas equilibrada
+		posible en el juego.</FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+	<FONT COLOR="#c00000">
+		<FONT SIZE=3><I>Estamos
+				trabajando todo lo posible para que estas mejoras en proceso de
+				estudio estén listas para P5, especialmente lo relacionado con los
+				mapas.</I></FONT>
+	</FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%"><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in; line-height: 115%">
+	<FONT COLOR="#1f4e79">
+		<FONT SIZE=4><B>Estrategias
+				de futuro:</B></FONT>
+	</FONT>
+</P>
+<UL>
+	<LI>
+		<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+			<FONT SIZE=3>Publicitar
+				el juego para traer nuevos jugadores. </FONT>
+		</P>
+</UL>
+<P ALIGN=JUSTIFY STYLE="margin-left: 0.5in; margin-bottom: 0in; line-height: 115%">
+	<FONT COLOR="#c00000">
+		<FONT SIZE=3><I><B>Se hace una llamada especial
+					a todos aquellos que mantengan algún tipo de contacto con jugadores
+					de este o el antiguo Lifo, para que se animen a volver a jugar en
+					esta nueva etapa.</B></I></FONT>
+	</FONT>
+</P>
+<UL>
+	<LI>
+		<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+			<FONT SIZE=3>Buscar
+				nuevas formas de animar el juego, mediante mejoras, eventos, nuevas
+				secciones…</FONT>
+		</P>
+</UL>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%"><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%"><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%">
+	<FONT SIZE=4><B>Eso
+			es todo,</B></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0in; line-height: 115%"><A NAME="_GoBack"></A>
+	<FONT SIZE=4><B>¡Un saludo!</B></FONT>
+</P>

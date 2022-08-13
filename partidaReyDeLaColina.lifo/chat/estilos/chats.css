@@ -1,0 +1,100 @@
+/* CHAT BOX */
+div.chat {
+    max-width: 800px;
+    height: 190px;
+    font-size: 16px;
+    position: relative;
+    border: 10px solid transparent;
+    border-image: url(../img/chat_border.png) 10 stretch;
+}
+
+div.chat ul{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color:white;
+    z-index:2;
+    float: left;
+    position: absolute;
+}
+
+ul#messages { 
+    overflow-y: auto; 
+    word-break: break-all;
+    text-align: left;
+    height: 184px; 
+    width: 794px;
+    padding: 0px; 
+    list-style: none;
+}
+ul#messages li.pending { 
+    color: #aaa;
+    font-style: italic; 
+}
+/****/
+
+/* MESSAGE BOX */
+div.message_box{
+    position: relative;
+    width: 254px;
+    height: 30px;
+}
+div.message_box input{
+    color: white;
+    background: transparent;
+    border: none;
+    width: 220px;
+    top: 7px;
+    left: 15px;
+    float: left;
+    position: relative;
+    z-index:2;
+}
+div.message_box input:focus{
+    outline:0;  
+}
+div.message_box button.send:focus{
+    outline:0;  
+}
+div.message_box label {
+    left: 11px;
+    top: 9px;
+    float: left;
+    position: relative;
+    z-index:2;
+    color: white;
+}
+div.message_box button.send {
+    border: none;
+    background: transparent;
+    margin-top: 2px;
+    margin-left: 30px;
+    float: left;
+    position: absolute;
+    z-index:2;
+    width: 27px;
+    height: 26px;
+    background-image: url(../img/button.png);
+}
+
+div.message_box button.send:active{
+    background-image: url(../img/buttonpressed.png);
+}
+/****/
+
+/* Background */
+div.chat img.background {
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    float: left;
+    position: relative;
+}
+
+div.message_box img.background{
+    z-index: 1;
+    float: left;
+    position: absolute;
+}
+/****/

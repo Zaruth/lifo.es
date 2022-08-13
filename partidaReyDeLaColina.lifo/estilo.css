@@ -1,0 +1,399 @@
+body {
+  font-family: sans-serif, Verdana, Arial, Helvetica;
+  font-size: 12px;
+  background: #DDDDDD;
+  color: #000000;
+}
+
+img {
+  border:0;
+  vertical-align: middle;
+}
+div#menu {
+  text-align: center;
+  margin: 10px;
+  padding: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+
+table.add {
+  text-align: center;
+  margin: auto;
+  color: red;
+}
+
+table.ad {
+  text-align: center;
+  margin: auto;
+  color: red;
+}
+
+@media (min-width: 400px) {
+	img.logo {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 400px;
+		height: 60px;
+	}
+}
+@media (max-width: 400px) {
+	img.logo {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 100%;
+	}
+}
+
+div#rights {
+  text-align: center;
+  margin: 10px;
+  padding: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+
+span.linkreg {
+  font-size: 15px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+div#contenido {
+  text-align: justify;
+  margin: 20px;
+  padding: 5px;
+}
+
+div#error {
+  text-align: center;
+  color: red;
+}
+
+div#mensaje {
+  text-align: center;
+  color: blue;
+}
+
+
+table#login {
+  padding: 15px;
+  margin: auto;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+
+table#clanes {
+  padding: 15px;
+  margin: auto;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+table#mensajet {
+  padding: 15px;
+  margin: auto;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+
+div.news {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+table.texto {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 30px;
+  padding: 5px;
+  text-align: justify;
+}
+
+table.subastas {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 30px;
+  padding: 5px;
+  text-align: center;
+}
+
+table.highscores {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+table.highscores td {
+  padding: 5px;
+  width: 100px;
+}
+
+table.highscores td.jugador {
+  text-decoration: underline;
+}
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+a:active {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+
+
+.highlight{ /** SUBRAYADO EN FORO **/
+  background-color: #F5F58C;
+}
+
+
+
+/** TOOLTIPS EN FORO **/
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -60px;
+  
+  /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+/* Encantamiento */
+
+.btn_Enchant {
+  background-color: #241530;
+  border: 1px solid white;
+  border-radius: 3px;
+  outline: 1px solid black;
+  color: white;
+  padding: 3px 3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.btn_Enchant:enabled{
+  background-image: url("//img.lifo.es/img/enchant/enchanted.gif");
+}
+
+.btn_Enchant:disabled {
+  background-color: #8a8a8a;
+}
+
+.btn_Disenchant {
+  background-color: #6d0c4d;
+  border: 1px solid white;
+  border-radius: 3px;
+  outline: 1px solid black;
+  color: white;
+  padding: 3px 3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.btn_Disenchant:enabled{
+  background-image: url("http://img.lifo.es/img/enchant/enchanted.gif");
+}
+
+.btn_Disenchant:disabled {
+  background-color: #8a8a8a;
+}
+
+.enchant_Container{
+  margin: auto;
+  position: relative;
+  height: 270px;
+  width: 647px;
+}
+
+.enchant_Base, .enchant_Runes{
+  position: absolute;
+  top: 0px;
+  left: 377px;
+}
+
+.enchant_move_base {
+  animation: move_base infinite;
+  animation-duration: 300ms;
+  transition: 10ms;
+}
+@keyframes move_base {
+  0%   {top: -10px; left: 367px;}
+  10%   {top: 0px; left: 377px;}
+  25%   {top: 10px; left: 387px;}
+  35%   {top: 0px; left: 377px;}
+  50%   {top: -10px; left: 377px;}
+  60%   {top: 0px; left: 377px;}
+  75%   {top: 10px; left: 367px;}
+  80%   {top: 0px; left: 377px;}
+  100% {top: 10px; left: 387px;}
+}
+.enchant_move_item{
+  animation: move_item infinite;
+  animation-duration: 300ms;
+  transition: 10ms;
+  left: 496px;
+}
+@keyframes move_item {
+  0%   {top: 109px; left: 486px;}
+  10%   {top: 119px; left: 496px;}
+  25%   {top: 129px; left: 506px;}
+  35%   {top: 119px; left: 496px;}
+  50%   {top: 109px; left: 496px;}
+  60%   {top: 119px; left: 496px;}
+  75%   {top: 129px; left: 486px;}
+  85%   {top: 119px; left: 496px;}
+  100% {top: 129px; left: 506px;}
+}
+
+.enchant_Book{
+  position: absolute;
+  top: 94px;
+  left: 0px;
+}
+
+.enchant_Effect{
+  position: absolute;
+  top: 61px;
+  left: 89px;
+  z-index: 1;
+}
+
+.enchant_Spell{
+  position: absolute;
+  top: 114px;
+  left: 38px;
+  z-index: 2;
+}
+
+.enchant_Item{
+  position: absolute;
+  top: 119px;
+  left: 496px;
+  z-index: 2;
+}
+
+.animated_Effect{
+  animation: lightning;
+  animation-duration: 3s;
+}
+
+@keyframes lightning {
+  0%   {opacity: 1;}
+  5%   {opacity: 0;}
+
+  15%   {opacity: 1;}
+  20%   {opacity: 0;}
+  21%   {opacity: 1;}
+  25%   {opacity: 0;}
+  
+  35%   {opacity: 1;}
+  40%   {opacity: 0;}
+  41%   {opacity: 1;}
+  45%   {opacity: 0;}
+  51%   {opacity: 1;}
+  55%   {opacity: 0;}
+
+  100% {opacity: 1;}
+}
+
+.enchant_ClearScreen{
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 100;
+}
+.enchant_ClearScreen_Anim{
+  background-color: rgb(255, 255, 255);
+  animation: shine;
+  animation-duration: 5440ms;
+  transition: 50ms;
+  opacity: 0.6;
+}
+@keyframes shine {
+  0%   {opacity: 0.6;}
+  5%   {opacity: 0;}
+
+  15%   {opacity: 0.6;}
+  20%   {opacity: 0;}
+  21%   {opacity: 0.6;}
+  25%   {opacity: 0;}
+  
+  35%   {opacity: 0.6;}
+  40%   {opacity: 0;}
+  41%   {opacity: 0.6;}
+  45%   {opacity: 0;}
+  51%   {opacity: 0.6;}
+  55%   {opacity: 0;}
+
+  100% {opacity: 1;}
+}
+
+.txt_encantado {
+  color: darkmagenta;
+  text-shadow: 0px 1px #000000;
+}
+
+.txt_escritos{
+	max-width: 450px;
+}
+
+@media only screen and (hover: none) and (pointer: coarse){
+	
+	.txt_escritos{
+		max-width: none;
+	}
+
+}

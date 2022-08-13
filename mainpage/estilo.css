@@ -1,0 +1,161 @@
+body {
+  font-family: sans-serif, Verdana, Arial, Helvetica;
+  font-size: 12px;
+  background: #DDDDDD;
+  /*background-image: url('img/snowflakesbg.png');*/
+  color: #000000;
+}
+
+/*.marquee {
+  background-image: url('img/snowflakesbg.png');
+  -webkit-animation: marquee 36s infinite linear;
+}
+
+@-webkit-keyframes marquee {
+  0% {
+    background-position-x: -200px;
+    background-position-y: -200px;
+  }
+  100% {
+    background-position-x: 0px;
+    background-position-y: 0;
+  }
+}*/
+
+img {
+  border:0;
+  vertical-align: middle;
+}
+div#menu {
+  text-align: center;
+  margin: 10px;
+  padding: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+
+table.add {
+  text-align: center;
+  margin: auto;
+  color: red;
+}
+
+table.ad {
+  text-align: center;
+  margin: auto;
+  color: red;
+}
+
+img.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 60px;
+
+}
+div#rights {
+  text-align: center;
+  margin: 10px;
+  padding: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+
+.linkreg {
+  font-size: 24px;
+  font-weight: bold;
+}
+div#contenido {
+  text-align: justify;
+  margin: 20px;
+  padding: 5px;
+}
+
+div#error {
+  text-align: center;
+  color: red;
+}
+
+div#mensaje {
+  text-align: center;
+  color: blue;
+}
+
+
+table#login {
+  padding: 15px;
+  margin: auto;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+
+table#clanes {
+  padding: 15px;
+  margin: auto;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+table#mensajet {
+  padding: 15px;
+  margin: auto;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+
+div.news {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+table.texto {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 30px;
+  padding: 5px;
+  text-align: justify;
+}
+
+table.subastas {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 30px;
+  padding: 5px;
+  text-align: center;
+}
+
+table.highscores {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+table.highscores td {
+  padding: 5px;
+  width: 100px;
+}
+
+table.highscores td.jugador {
+  text-decoration: underline;
+}
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+a:active {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
