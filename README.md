@@ -88,6 +88,7 @@ Quisiera agradecer a los jugadores que han participado en el juego a lo largo de
 En especial me gustaría agradecer a:
  - Recycled, por haberme ayudado años con la moderación y creando imágenes para el juego.
  - Layon, jugador invidente que colaboró mucho con el juego.
+ - Pipi, jugador que aunque fuese un demonio y solo causase problemas, siempre le dio vida al juego.
  - Casio, un buen amigo que me ha acompañado en todo el camino toda la vida de lifo.es.
  - Y a todos los moderadores de los servidores a lo largo de todo este tiempo. De veras, gracias por todo.
 
